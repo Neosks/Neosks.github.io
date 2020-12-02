@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Neosks.github.io</id>
     <title>Gridea</title>
-    <updated>2020-11-16T05:45:45.922Z</updated>
+    <updated>2020-12-02T09:04:56.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Neosks.github.io"/>
     <link rel="self" href="https://Neosks.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://Neosks.github.io/images/avatar.png</logo>
     <icon>https://Neosks.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[JiYu]]></title>
+        <id>https://Neosks.github.io/post/jiyu/</id>
+        <link href="https://Neosks.github.io/post/jiyu/">
+        </link>
+        <updated>2020-12-02T09:04:28.000Z</updated>
+        <content type="html"><![CDATA[<p>https://wwa.lanzous.com/iKNIfiyzzvi</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Neosks.github.io/post/hello-gridea/</id>
